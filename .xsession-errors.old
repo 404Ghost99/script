@@ -1,0 +1,146 @@
+/etc/gdm3/Xsession: Beginning session setup...
+localuser:a being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+GNOME_KEYRING_CONTROL=/home/a/.cache/keyring-XTYsaC
+GNOME_KEYRING_PID=4469
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+GNOME_KEYRING_CONTROL=/home/a/.cache/keyring-XTYsaC
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+GNOME_KEYRING_CONTROL=/home/a/.cache/keyring-XTYsaC
+GPG_AGENT_INFO=/home/a/.cache/keyring-XTYsaC/gpg:0:1
+GNOME_KEYRING_CONTROL=/home/a/.cache/keyring-XTYsaC
+GPG_AGENT_INFO=/home/a/.cache/keyring-XTYsaC/gpg:0:1
+SSH_AUTH_SOCK=/home/a/.cache/keyring-XTYsaC/ssh
+
+(gnome-panel:4509): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:4509): WARNING **: Unable to parse mouse modifier '(null)'
+
+Initializing tracker-store...
+Initializing tracker-miner-fs...
+Creating config directory:'/home/a/.config/tracker'
+Tracker-Message: Setting up monitor for changes to config file:'/home/a/.config/tracker/tracker-miner-fs.cfg'
+Could not open log:'/home/a/.local/share/tracker/tracker-miner-fs.log', No such file or directory
+All logging will go to stderr
+Starting log:
+  File:'/home/a/.local/share/tracker/tracker-miner-fs.log'
+Tracker-Message: Setting up monitor for changes to config file:'/home/a/.config/tracker/tracker-store.cfg'
+Tracker-Message: Setting up monitor for changes to config file:'/home/a/.config/tracker/tracker-store.cfg'
+Could not open log:'/home/a/.local/share/tracker/tracker-store.log', No such file or directory
+All logging will go to stderr
+Starting log:
+  File:'/home/a/.local/share/tracker/tracker-store.log'
+** Message: applet now removed from the notification area
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-application-handlers
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-command-line
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-log-out
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-print-setup
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-printing
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-save-to-disk
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-application-handlers
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-command-line
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-log-out
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-print-setup
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-printing
+
+** (gnome-screensaver:4543): WARNING **: Config key not handled: disable-save-to-disk
+Initializing nautilus-gdu extension
+
+(gnome-panel:4509): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:4509): WARNING **: Unable to parse mouse modifier '(null)'
+
+
+(nautilus:4542): GLib-CRITICAL **: g_hash_table_foreach: assertion `version == hash_table->version' failed
+
+(nautilus:4542): GLib-CRITICAL **: g_hash_table_foreach: assertion `version == hash_table->version' failed
+
+(gnome-panel:4509): GLib-GObject-WARNING **: /tmp/buildd/glib2.0-2.33.12+really2.32.4/./gobject/gsignal.c:2459: signal `size_request' is invalid for instance `0x2360000'
+** Message: applet now embedded in the notification area
+
+(notification-daemon:4544): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -23 and height 27
+
+14 Dec 2014, 01:51:59: Tracker-Warning **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''
+
+(tracker-miner-fs:4529): Tracker-WARNING **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''
+
+(gnome-settings-daemon:4467): color-plugin-WARNING **: Done switch to new account, reload devices
+** Message: applet now removed from the notification area
+** Message: NM disappeared
+** Message: applet now embedded in the notification area
+** Message: NM appeared
+
+(notification-daemon:4544): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -23 and height 27
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+[1418496701,000,xklavier.c:xkl_engine_start_listen/] 	The backend does not require manual layout management - but it is provided by the application
+** Message: applet now removed from the notification area
+x-session-manager[4398]: WARNING: Unable to restart system: Not Authorized
+
+(nm-applet:4528): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(bluetooth-applet:4531): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(gnome-sound-applet:4530): Gdk-WARNING **: gnome-sound-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(gnome-fallback-mount-helper:4541): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.15 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gnome-fallback-mount-helper:4541): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.16 of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(gnome-fallback-mount-helper:4541): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(gnome-screensaver:4543): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(nautilus:4542): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(notification-daemon:4544): Gdk-WARNING **: notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(gdu-notification-daemon:4548): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(polkit-gnome-authentication-agent-1:4546): Gdk-WARNING **: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+Received signal:15->'Terminated'
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+Received signal:15->'Terminated'
+14 Dec 2014, 02:00:15: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:4529): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+14 Dec 2014, 02:00:15: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:4529): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+14 Dec 2014, 02:00:15: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:4529): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+OK
+
+
+OK
+
