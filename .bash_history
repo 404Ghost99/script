@@ -797,3 +797,833 @@ logout
 cd Desktop/git.com/octopress/
 rake preview 
 logout 
+cd Desktop/git.com/octopress/
+ssh -T git@github.com
+ls
+clear
+cd 
+mkdir con-jektll
+cd con-jektll/
+ls
+git clone https://github.com/404Ghost99/con-jekyll.git
+ls
+cd con-jekyll/
+ls
+echo "vuln" >> vuln.rb
+ls
+git commit -m "vuln nih"
+git status
+git add --all
+git commit -m "vuln nih"
+git push
+jekyll --help
+cd 
+git clone https://github.com/404Ghost99/NginxID.github.io.git
+ls
+cd NginxID.github.io/
+ls
+jekyll serve
+cd
+touch README.md
+git init 
+git add README.md
+git commit -m "add"
+git clone https://github.com/404Ghost99/Nginx.github.io.git
+git clone https://github.com/404Ghost99/Nginx.github.io
+git commit -m "add commit"
+git add --all
+git commit -m "add commit"
+git push 
+cd nginx/
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/404Ghost99/Nginx.github.io.git
+git push -u origin master
+ssh -T git@github.com
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/404Ghost99/Nginx.github.io.git
+git push -u origin master
+cd 
+ls
+cd NginxID.github.io/
+ls
+cd 
+logout 
+cd Desktop/git.com/octopress/
+ssh -T git@github.com
+cd ..
+ls
+cd ..
+ls
+mkdir nginx
+cd nginx/
+touch README.md
+git init
+git add README.md
+git commit -m "add nginx"
+git remote add origin https://github.com/404Ghost99/nginx.git
+git push -u origin master
+git clone https://github.com/404Ghost99/NginxID.github.io.git
+git add --all
+git commit -m "nginxID"
+git push 
+ls
+cd NginxID.github.io/
+git add --all
+git commit -m "add nginxID"
+git commit -m "nginxID"
+git u
+git push 
+ls
+cd 
+cd Desktop/git.com/octopress/
+ssh -T git@github.com
+clear
+rake new_post['Create New Repos in Github'] 
+ls
+rake generate 
+rake deploy 
+git pull
+rake deploy 
+git push 
+ls
+rake generate 
+rake deploy 
+git push --help
+git push --repository https://github.com/404Ghost99/404Ghost99.github.io
+git pull origin development
+ssh -T git@github.com
+git pull origin development
+rake deploy 
+rake generate 
+git pull origin development
+git pull origin
+cd Desktop/git.com/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+git pull origin development
+git add .
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+ls
+git pull origin master
+rake deploy 
+git pull origin master
+cd 
+rake generate
+git pull origin master
+cd Desktop/git.com/octopress/
+ssh -T git@github.com
+git config --help
+git config
+git config --global
+git -v
+git --version
+cd Desktop/git.com/octopress/
+cd 
+logout 
+cd Desktop/git.com/octopress/
+ssh -T git@github.com
+cd Desktop/git.com/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+rake preview 
+bundle exec rake deploy
+ssh git -T git@github.com
+ssh  -T git@github.com
+git push -h
+git push
+git pull -h
+git pull --help
+git pull
+git status
+rake preview
+cd
+cd -
+cd ..
+,s
+ls
+git clone github.com/imathis/octopress.git
+git clone https://github.com/imathis/octopress.git
+ls
+cd ..
+l
+ls
+git clone github.com/imathis/octopress.git
+git clone https://github.com/imathis/octopress.git
+l
+ls
+mkdir test ; cd test
+git clone https://github.com/imathis/octopress.git
+cd octopress/
+ls
+bundle install
+rake install
+cd ..
+cd git.com/
+ls
+cd octopress/
+ls
+rake generate
+rake deploy
+cd ../..
+cd test/
+cd octopress/
+rake generate 
+sudo chown a:a * -R
+ls
+rake generate 
+rake preview
+tree
+sudo chown a:a * -R
+rake generate 
+ls
+rake setup_github_pages
+rake deploy
+rake generate 
+rake deploy
+rake generate 
+rake preview 
+rake generate 
+rake deploy
+ls
+clear
+rake new_post['github error: failed to push some refs to git@github.com:myrepo.git'] 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake preview 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+cd Desktop/test/octopress/
+ls
+ssh -T git@github.com
+rake generate 
+rake deploy 
+cd Desktop/test/octopress/
+ls
+rake generate 
+rake preview 
+rake generate 
+rake preview 
+ssh -T git@github.com
+rake generate 
+rake deploy 
+ssh -T git@github.com
+rake generate 
+rake deploy 
+logout 
+cd Desktop/test/octopress/
+ssh -T git@github.com
+rake generate 
+rake preview 
+rake generate 
+rake preview 
+rake deploy 
+logout 
+cd Desktop/test/octopress/source/
+ls
+jhead -purejpg tux2.png 
+chmod +x tux2.png 
+sudo chmod +x tux2.png 
+sudo jhead -purejpg tux2.png 
+sudo jhead -purepng tux2.png 
+jhead -h 
+sudo jhead -dc -du -de tux2.png 
+logout 
+cd Desktop/test/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+ls
+ssh -T git@github.com
+rake generate 
+rake preview 
+rake deploy 
+rake generate 
+rake preview 
+logout 
+cd Desktop/test/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake preview 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake preview 
+rake generate 
+rake deploy 
+rake preview 
+logout 
+cd Desktop/test/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+logout 
+cd Desktop/Ghost99/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+ssh -T git@github.com
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake new_post['Generating SSH keys(Github)'] 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+logout 
+gem -v 
+cd Desktop/Ghost99/octopress/
+ls
+ssh -T git@github.com
+rake generate 
+rake deploy 
+cd 
+rails 
+logout 
+cd Desktop/Ghost99/octopress/
+ls
+ssh -T git@github.com
+rake generate
+rake deploy 
+cd ..
+ls
+cd ..
+ls
+gem update
+gem -v 
+gem update
+sudo gem update
+gem -v 
+gem install rails
+logout '
+logout 
+cd Desktop/Ghost99/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+logout 
+cd Desktop/Ghost99/octopress/
+ssh -T git@github.com
+rake generate 
+rake deploy 
+cd 
+logout 
+cd Desktop/Ghost99/octopress/
+ssh -T git@github.com
+clear
+rake generate 
+rake deploy 
+rake preview 
+rake generate 
+rake deploy 
+cd 
+ls
+cd Desktop/
+ls
+mkdir github-api ; cd github-api
+git clone https://github.com/404Ghost99/github.git
+ls
+cd github/
+ls
+cd..
+cd ..
+ls
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/404Ghost99/github-api.git
+git push -u origin master
+ls
+git add --all
+git commit -m "api"
+git push 
+ls
+cd GithubApi/
+git add --all
+sudo git add --all
+git commit -m "apiv3"
+sudo git commit -m "apiv3"
+git push 
+cd ..
+ls
+cd
+logout 
+cd Desktop/Ghost99/octopress/
+ssh -T git@github.com
+clear
+ls
+clear
+cd .. ..
+cd ..
+ls
+cd github-api/
+ls
+cd github/
+ls
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/404Ghost99/github-api.git
+git push -u origin master
+git remote add origin https://github.com/404Ghost99/github-api.git
+cd ..
+github-api/
+cd 
+github = Github.new
+gem install github_api
+sudo gem install github_api
+logout 
+cd Desktop/Ghost99/octopress/
+ssh -T git@github.com
+clear
+rake generate 
+rake deploy 
+cd 
+logout 
+cd Desktop/
+ls
+github-api/
+cd github-api/
+ls
+cd github/
+ls
+touch README.md
+ssh -T git@github.com
+touch README.md
+git init 
+git add .
+git commit -m 'api'
+touch README.md
+git init 
+git add README.md
+git commit -m 'api nih'
+git commit -m "api nih"
+#git remote add origin https://github.com/404Ghost99/Api.git
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/404Ghost99/Api.git
+git push -u origin master
+git add --all
+git commit -m "commit yang ke dua"
+git push 
+cd 
+rails 
+rails server
+logout 
+cd 
+ls
+cd Desktop/
+ls
+mkdir test_rails
+cd test_rails/
+rails new test_rails
+ls
+cd test_rails/
+ls
+rails server
+cd ..
+bundle install
+cd 
+gem install rails
+bundle install
+cd Desktop/test_rails/
+ls
+cd test_rails/
+bundle install
+cd 
+gem install sqlite3 -v '1.3.10'
+sudo gem install sqlite3 -v '1.3.10'
+sqlite3 --version
+cd Desktop/test_rails/test_rails/
+gem install sqlite3 -v '1.3.10'
+sudo gem install sqlite3 -v '1.3.10'
+cd 
+sudo apt-get install libsqlite3-dev
+cd Desktop/test_rails/test_rails/
+bundle install
+rails server
+cd
+gem update rails
+rails --version
+cd Desktop/test_rails/test_rails/
+ls
+cd .. 
+cd ..
+rm -rf test_rails/
+ls
+mkdir test_rails
+cd test_rails/
+ls
+rails new test_rails
+bundle install
+cd test_rails/
+bundle install
+ls
+rails server
+ls
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/404Ghost99/test_rails.git
+git push -u origin master
+git add --all
+git commit -m "test rails"
+git push 
+cd Desktop/Ghost99/octopress/
+ls
+ssh -T git@github.com
+rake generate 
+rake deploy 
+cd /usr/local/bin/
+composer create-project
+ls
+cd Desktop/
+curl -sS https://getcomposer.org/installer | php
+ls
+php composer.phar 
+php composer.phar install
+php composer.phar
+composer global require "laravel/installer=~1.1"
+php composer.phar install
+php composer.phar help
+ls
+composer install
+php composer.phar 
+composer install
+php composer.phar install
+mkdir Laravel
+vd Laravel/
+cd Laravel/
+curl -sS https://getcomposer.org/installer | php
+mv composer.phar /usr/local/bin/composer
+sudo mv composer.phar /usr/local/bin/composer
+php composer.phar
+composer
+php composer.phar install
+composer global require "laravel/installer=~1.1"
+ls
+laravel new blog
+cd 
+cd Desktop/Laravel/
+cd ~/.composer/vendor/bin
+ls
+cat laravel 
+cd 
+cd Desktop/Laravel/
+ls
+ls -al
+cd ~/.composer/vendor/bin
+ls
+cd 
+cd /usr/local/bin/
+ls
+cat composer 
+cd 
+cd ~/.composer/vendor/bin
+ls
+mv laravel /usr/local/bin/
+sudo mv laravel /usr/local/bin/
+cd 
+cd /usr/local/bin/
+ls
+chmod +x laravel 
+sudo chmod +x laravel 
+laravel
+cd
+ls -al
+cd /usr/local/bin/
+ls -al
+cd 
+cd /usr/local/bin/
+ls
+mv laravel ~/.composer/vendor/bin/
+sudo mv laravel ~/.composer/vendor/bin/
+ls
+cd 
+composer
+clear
+composer create-project
+composer create-project test
+cd Desktop/
+ls
+composer create-project
+cd Laravel/
+ls
+ls -al
+composer create-project
+sudo cat /etc/apt/sources.list
+cd Desktop/
+ls
+composer craete-project laravel/laravel sampleApp --prefer-dist
+composer create-project laravel/laravel sampleApp --prefer-dist
+composer update
+ls
+cd
+ls
+sudo apt-get update && sudo apt-get upgrade 
+sudo apt-get update && sudo apt-get upgrade -f
+sudo apt-get update && sudo apt-get upgrade --fix-missing
+sudo apt-get dist-upgrade 
+mkdir Laravel
+cd Laravel/
+curl -sS https://getcomposer.org/installer | php
+ls
+php composer.phar install
+sudo mv composer.phar /usr/local/bin/composer
+composer install
+composer global require "laravel/installer=~1.1"
+composer create-project laravel/laravel --prefer-dist
+composer install
+ls
+cd laravel/
+ls
+composer install
+cat composer.
+cat composer.json 
+ls
+cat composer.lock 
+clear
+ls
+php composer.phar install
+composer install
+sudo apt-get install php5-mcrypt
+php5enmod mcrypt
+sudo php5enmod mcrypt
+php -i | grep mcrypt
+composer install
+composer global require "laravel/installer=~1.1"
+laravel new
+composer create-project laravel/laravel --prefer-dist
+laravel/
+ls
+sudo apt-get install php5-json
+ls
+composer craete-project laravel/laravel testApp --prefer-dist
+composer create-project laravel/laravel testApp --prefer-dist
+ls
+cd public/
+ls
+cat index.php 
+cd Desktop/Ghost99/octopress/
+ls
+ping google.com
+cd Desktop/Ghost99/octopress/
+ssh -T git@github.com
+clear
+rake generate 
+rake deploy 
+rake new_post["Creative Contact Form (Wordpress 0.9.7 and Joomla 2.0.0) - Shell Upload Vulnerability"] 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake generate 
+rake deploy 
+rake preview 
+rake generate 
+rake deploy 
+rake preview 
+rake generate 
+rake deploy 
+rake preview 
+rake generate 
+rake deploy 
+cd 
+logout 
+cd Desktop/Ghost99/octopress/
+ls
+ssh -T git@github.com
+rake generate
+rake deploy 
+rake generate
+rake deploy 
+rake generate
+rake deploy 
+logout 
+cd Desktop/
+ls
+mkdir wp-brainstorm
+cd wp-brainstorm/
+ssh -T git@github.com
+echo "# Wordpress-Themes-Brainstorm-Arbitrary-File-Upload-Vulnerability" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/404Ghost99/Wordpress-Themes-Brainstorm-Arbitrary-File-Upload-Vulnerability.git
+git push -u origin master
+ssh -T git@github.com
+cd 
+logout 
+cd Desktop/
+ls
+cd wp-brainstorm/
+ls
+ssh -T git@github.com
+git add all
+touch README.md 
+git init 
+git add README.md
+git commit -m "next"
+git remote add origin https://github.com/404Ghost99/Wordpress-Themes-Brainstorm-Arbitrary-File-Upload-Vulnerability.git
+git push -u origin master 
+git add --all
+git commit -m "description"
+git push 
+cd ..
+cd Ghost99/octopress/
+ssh -T git@github.com
+rake new_post["Wordpress-Themes-Brainstorm-Arbitrary-File-Upload-Vulnerability"] 
+rake generate 
+rake deploy 
+rake preview 
+rake generate 
+rake deploy 
+logout 
+cd Desktop/Ghost99/octopress/
+ls
+clear
+ssh -T git@github.com
+rake generate 
+rake deploy 
+cd
+logout 
+cd Desktop/Ghost99/octopress/
+ls
+clear
+ssh -T git@github.com
+rake generate 
+rake deploy 
+ls
+cd Desktop/
+ls
+cd Ghost99/
+ls
+cd octopress/
+ls
+history 
+ssh -T git@github.com
+history 
+ssh -T git@github.com
+ls
+cd Desktop/
+ls
+cd Ghost99/
+ls
+cd octopress/
+ls
+history 
+rake --help
+rake -h 
+rake update 
+rake --trace
+rake generate 
+history 
+rake deploy 
+logout 
+ls
+cd Dek
+cd Desktop/
+ls
+cd font-awesome/
+ls
+cd fonts/
+ls
+cd .. .. .. .. 
+cd .. 
+ls
+cd Ghost99/
+ls
+locate
+locate --help
+l
+ls
+cd octopress/
+ls
+nano CNAME 
+nano README.markdown 
+cd Desktop/Ghost99/octopress/
+ls
+history 
+rake -v
+rake -h
+rake -V
+rake update
+rake preview 
+cd 
+exit
+sudo gem update
+ls
+cd Desktop/
+ls
+sudo gem update
+gem -v
+gem
+exit
+ls
+vl
+vlc
+cvlc 
+clear
+vlc-wrapper 
+exit
+ls
+cd Desktop/
+ls
+cd Ghost99/
+ls
+cd ..
+cd git.com/
+ls
+cd ..
+ls
+cd ..
+ls -al ~/.ssh
+ls  ~/.ssh
+ls ~/.ssh
+cat ~/.ssh
+ssh -T git@github.com
+exit
